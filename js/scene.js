@@ -1,4 +1,4 @@
-import { GLTFLoader } from '../build/GLTFLoader.js';
+import { GLTFLoader } from './../build/GLTFLoader.js';
 
 var globe;
 let text;
@@ -21,7 +21,7 @@ function modelLoader(url) {
 }
 
 async function main() {
-    const gltfData = await modelLoader("/models/sinclair-globe.gltf"),
+    const gltfData = await modelLoader("models/sinclair-globe.gltf"),
 
         model = gltfData.scene;
     scene.add(model);
