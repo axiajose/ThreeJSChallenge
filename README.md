@@ -13,6 +13,9 @@ Your goal will be to export the model in GLTF format, then import it into ThreeJ
 When the web is loaded, you should start a fullscreen div, with a black background, show any loader (could be a simple word that says “loading...” or any CSS animation) while the 3D model is loaded, then hide the loader and show the model with the animations.
 The web app should be responsive and works properly on both mobile and desktop
 
+## Live Demo
+
+* [Demo](https://axiajose.github.io/ThreeJSChallenge/)
 
 ### Built With
 
