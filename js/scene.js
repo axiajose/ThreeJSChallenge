@@ -1,4 +1,4 @@
-import { GLTFLoader } from '/build/GLTFLoader.js';
+import { GLTFLoader } from '../build/GLTFLoader.js';
 
 var globe;
 let text;
