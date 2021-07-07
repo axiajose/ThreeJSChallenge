@@ -19,7 +19,6 @@ The web app should be responsive and works properly on both mobile and desktop
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Javascript](https://www.javascript.com/)
 * [Three JS](https://threejs.org/)
 * HTML5
